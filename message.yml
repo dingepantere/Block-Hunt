@@ -1,0 +1,28 @@
+global:
+  cmdcant: "You don't have this permission"
+  namepermshowscoreboard: "*"
+  blockalreadyfind: "You already find this block"
+  allblockfind: "Congrate, You find all blocks"
+  newblockfind: "Congrate, you find new block \n you are now at %text% of %text2%"
+
+scoreboard:
+  title: "&d&lTitle"
+  ld1: "&e----------------------"
+  ld2: "&e"
+  ld3: "&d&lTOP 3"
+  lf2: "&e"
+  lf1: "&eyour server ip"
+  lvoid: "&4&a"
+  lrank: "&a%text%   %text2%/%text3%"
+  toprank: 3
+  
+cmd:
+  searchstart: "Hunt is now open"
+  searchend: "Hunt is now close"
+  listfindedclear: "List of finded blocks was clear"
+  playerfindedclear: "List of blocks find by %text% was clear"
+  cannowplace: "You can now place block of hunt"
+  cantnowplace: "You can no longer place hunting blocks"
+  placerwarmfinish: "%JSON% &cWarning, if you place or break one block ranking from timer finished will be reset\n%%&aCancel Placer%/placer% %"
+  placerFinalClear: "Final ranking was clear"
+  ranking: "TOP %text%: %text2"

@@ -1,0 +1,21 @@
+name: BlockHunt
+main: fr.dingepantere.search.Main
+version: 1.5
+author: dingepantere
+api-version: 1.16
+commands:
+  placer:
+    description: Place block at find
+    permission: blockhunt.placer
+  showblock:
+    description: Show all blocks placed
+    permission: blockhunt.showblock
+  startsearch:
+    description: Start hunting
+    permission: blockhunt.start
+  clearsearch:
+    description: Clear all blocks find
+    permission: blockhunt.clear
+  ranking:
+    description: Show rank of all people
+    permission: blockhunt.show rank
